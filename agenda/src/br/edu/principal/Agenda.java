@@ -1,5 +1,5 @@
 package br.edu.principal;
 
-public class Principal {
+public class Agenda {
 
 }
